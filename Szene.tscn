@@ -1,15 +1,27 @@
-[gd_scene load_steps=7 format=2]
+[gd_scene load_steps=6 format=2]
 
 [ext_resource path="res://assets/BeeRaw.png" type="Texture" id=1]
 [ext_resource path="res://Bee.gd" type="Script" id=2]
-[ext_resource path="res://assets/sprites/Zeichnung.svg" type="Texture" id=3]
-[ext_resource path="res://Enemy.gd" type="Script" id=4]
+[ext_resource path="res://assets/music/play.ogg" type="AudioStream" id=3]
 
 [sub_resource type="CircleShape2D" id=1]
 radius = 15.4176
 
-[sub_resource type="RectangleShape2D" id=2]
-extents = Vector2( 34.6477, 48.1067 )
+[sub_resource type="GDScript" id=2]
+script/source = "extends Node
+
+var respawnTime = 5
+
+func _process(delta):
+	respawnTime -= delta
+	
+	if respawnTime <= 0:
+		respawnTime += rand_range(2000, 8000)
+		spawnEnemy()
+		
+func spawnEnemy():
+	print(\"Spawn Enemy!\")
+"
 
 [node name="Szene" type="Node2D"]
 
@@ -30,16 +42,10 @@ shape = SubResource( 1 )
 [node name="BorderCollisionBox" type="CollisionPolygon2D" parent="Border"]
 polygon = PoolVector2Array( -0.00276852, 600.003, -0.0078125, 0.0078125, 1024, 0.0078125, 1024.01, 600.008, -0.00276852, 599.989, -12.2063, 614.141, 1043.27, 614.986, 1039.43, -14.9828, -21.6135, -18.7443, -12.4227, 613.858 )
 
-[node name="Enemy" type="KinematicBody2D" parent="."]
-position = Vector2( 200, 200 )
-collision_layer = 4
-collision_mask = 9
-script = ExtResource( 4 )
+[node name="EnemySpawner" type="Node" parent="."]
+script = SubResource( 2 )
 
-[node name="Sprite" type="Sprite" parent="Enemy"]
-scale = Vector2( 0.0975596, 0.0975596 )
-texture = ExtResource( 3 )
-
-[node name="CollisionShape2D" type="CollisionShape2D" parent="Enemy"]
-position = Vector2( 1.12245, 7.85724 )
-shape = SubResource( 2 )
+[node name="Playing Music" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 3 )
+volume_db = -15.0
+autoplay = true
