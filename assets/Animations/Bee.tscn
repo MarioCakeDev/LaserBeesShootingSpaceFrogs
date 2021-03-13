@@ -116,7 +116,7 @@ tracks/8/keys = {
 "times": PoolRealArray( 0.1, 1 ),
 "transitions": PoolRealArray( 0.420448, 1 ),
 "update": 0,
-"values": [ Vector2( -5.83279, 18.8313 ), Vector2( -5.83279, 18.8313 ) ]
+"values": [ Vector2( 0.339127, 20.9392 ), Vector2( 5.21168, 20.5879 ) ]
 }
 tracks/9/type = "value"
 tracks/9/path = NodePath("Body/Head/Node2D/BeeMouth:rotation_degrees")
@@ -128,7 +128,7 @@ tracks/9/keys = {
 "times": PoolRealArray( 0.1, 1 ),
 "transitions": PoolRealArray( 0.329877, 1 ),
 "update": 0,
-"values": [ 0.0, 0.0 ]
+"values": [ 0.0, 48.914 ]
 }
 tracks/10/type = "value"
 tracks/10/path = NodePath("Body:position")
@@ -162,19 +162,19 @@ autoplay = "Idle"
 anims/Idle = SubResource( 1 )
 
 [node name="Body" type="Sprite" parent="."]
-position = Vector2( 18.1328, -3.02483 )
+position = Vector2( 18.6386, -2.01319 )
 scale = Vector2( 0.1, 0.1 )
 texture = ExtResource( 2 )
 offset = Vector2( -213.284, -0.722126 )
 
 [node name="Wings" parent="Body" instance=ExtResource( 3 )]
 position = Vector2( -184.775, -57.4014 )
-rotation = -1.0201
+rotation = -0.883761
 scale = Vector2( 10.9975, 11.0547 )
 
 [node name="WingsBack" parent="Body" instance=ExtResource( 3 )]
 position = Vector2( -67.6816, -49.8343 )
-rotation = 1.14196
+rotation = 1.07321
 scale = Vector2( -10.9888, 12.2 )
 z_index = -1
 
@@ -187,6 +187,7 @@ position = Vector2( -2.21368, -32.6957 )
 scale = Vector2( 8.1538, 7.5393 )
 
 [node name="BeeMouth" type="Sprite" parent="Body/Head/Node2D"]
-position = Vector2( -5.83279, 18.8313 )
+position = Vector2( 2.37175, 20.7926 )
+rotation = 0.424677
 scale = Vector2( 0.122642, 0.132638 )
 texture = ExtResource( 5 )
