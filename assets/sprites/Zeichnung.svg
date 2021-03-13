@@ -23,17 +23,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.28924023"
-     inkscape:cx="-382.98118"
-     inkscape:cy="1212.3675"
+     inkscape:zoom="0.27057957"
+     inkscape:cx="415.84231"
+     inkscape:cy="1010.4881"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1397"
-     inkscape:window-height="936"
-     inkscape:window-x="130"
-     inkscape:window-y="15"
+     inkscape:window-width="1468"
+     inkscape:window-height="1008"
+     inkscape:window-x="75"
+     inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata5">
@@ -52,18 +52,31 @@
      inkscape:groupmode="layer"
      id="layer1">
     <ellipse
+       style="opacity:1;fill:#8787de;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1240-0-8"
+       cx="-209.25761"
+       cy="43.024929"
+       rx="42.078632"
+       ry="38.419624" />
+    <ellipse
        style="opacity:0.989;fill:#b3ff80;fill-opacity:1;stroke:#000000;stroke-width:6.00001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.968889"
        id="path892-7-0"
        cx="-178.44597"
        cy="-227.7625"
        rx="56.173126"
        ry="22.268078"
-       transform="matrix(0.23428568,-0.97216779,-0.97216779,-0.23428568,0,0)" />
+       transform="matrix(0.23428568,-0.97216779,-0.97216779,-0.23428568,0,0)"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\frogRaw.png"
+       inkscape:export-xdpi="58.66"
+       inkscape:export-ydpi="58.66" />
     <path
        id="path931-7"
        style="opacity:0.989;fill:#b3ff80;fill-opacity:1;stroke:#000000;stroke-width:8.09411;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.968889"
        d="m 130.36353,287.33511 c 0.24015,6.14862 2.46214,17.97608 15.69103,11.3086 3.40009,-1.71366 5.11883,-12.20793 10.88604,-12.54279 10.46832,-0.60783 7.03669,24.73891 22.65305,20.30436 18.95926,-5.38384 -5.62987,-31.71676 -4.83361,-36.11267 1.40737,-7.7697 18.86296,15.76251 27.91122,2.22112 9.31471,-13.94017 -12.94892,-14.49026 -19.60017,-21.59451 -6.62158,-7.07253 -13.05073,-14.32986 -20.21207,-20.93215 -25.8539,-23.83566 -29.61715,-3.22085 -19.31784,18.29965 5.35152,11.18205 -13.72098,25.13729 -13.17765,39.04839 z"
-       sodipodi:nodetypes="ssasssasss" />
+       sodipodi:nodetypes="ssasssasss"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\frogRaw.png"
+       inkscape:export-xdpi="58.66"
+       inkscape:export-ydpi="58.66" />
     <ellipse
        style="opacity:0.989;fill:#b3ff80;fill-opacity:1;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.968889"
        id="path892-7"
@@ -71,12 +84,18 @@
        cy="-9.2302284"
        rx="56.173126"
        ry="22.268078"
-       transform="rotate(-103.54952)" />
+       transform="rotate(-103.54952)"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\frogRaw.png"
+       inkscape:export-xdpi="58.66"
+       inkscape:export-ydpi="58.66" />
     <path
        id="path931"
        style="opacity:0.989;fill:#b3ff80;fill-opacity:1;stroke:#000000;stroke-width:8.0941;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.968889"
        d="m 80.281461,280.22867 c -0.240152,6.14862 -2.462142,17.97608 -15.691028,11.3086 -3.400086,-1.71366 -5.118827,-12.20793 -10.886044,-12.54279 -10.46832,-0.60783 -7.036685,24.73891 -22.653045,20.30436 -18.959265,-5.38384 5.629869,-31.71676 4.833611,-36.11267 -1.407376,-7.7697 -18.862966,15.76251 -27.9112211,2.22112 -9.3147088,-13.94017 12.9489171,-14.49026 19.6001701,-21.59451 6.621578,-7.07253 13.050727,-14.32986 20.21207,-20.93215 25.853902,-23.83566 29.617147,-3.22085 19.317836,18.29965 -5.351522,11.18205 13.720984,25.13729 13.177651,39.04839 z"
-       sodipodi:nodetypes="ssasssasss" />
+       sodipodi:nodetypes="ssasssasss"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\frogRaw.png"
+       inkscape:export-xdpi="58.66"
+       inkscape:export-ydpi="58.66" />
     <ellipse
        style="opacity:0.99;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:9.3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.968889"
        id="path833"
@@ -104,19 +123,28 @@
        cx="115.64043"
        cy="205.44844"
        rx="73.259125"
-       ry="41.574047" />
+       ry="41.574047"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\frogRaw.png"
+       inkscape:export-xdpi="58.66"
+       inkscape:export-ydpi="58.66" />
     <path
        id="path894"
        style="opacity:0.989;fill:#f6ffd5;fill-opacity:1;stroke:none;stroke-width:6.00001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.968889"
        d="m 154.99451,228.65727 c -1e-5,14.82415 -21.66824,15.13618 -37.94137,15.13618 -16.27312,0 -41.57404,-1.1193 -41.574044,-15.94344 -2e-6,-14.82415 24.493656,-25.63061 40.766784,-25.63061 16.27313,0 38.74863,11.61372 38.74863,26.43787 z"
-       sodipodi:nodetypes="sssss" />
+       sodipodi:nodetypes="sssss"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\frogRaw.png"
+       inkscape:export-xdpi="58.66"
+       inkscape:export-ydpi="58.66" />
     <ellipse
        style="opacity:0.989;fill:#ff5555;fill-opacity:1;stroke:#000000;stroke-width:6.00001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.968889"
        id="path949"
        cx="129.6586"
        cy="208.65588"
        rx="10.132261"
-       ry="25.244787" />
+       ry="25.244787"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\frogRaw.png"
+       inkscape:export-xdpi="58.66"
+       inkscape:export-ydpi="58.66" />
     <path
        sodipodi:type="spiral"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3"
@@ -129,68 +157,98 @@
        sodipodi:argument="-5.2228775"
        sodipodi:t0="0"
        d="m 238.70921,147.34712 c 10e-6,1e-5 -1e-5,0 -2e-5,0 -0.0101,-9.5e-4 -0.004,-0.0204 -0.002,-0.0303 0.21226,-0.98821 2.87161,-0.26223 3.16363,-0.16503 12.33202,4.10473 15.50636,24.16227 16.07237,34.54194"
-       transform="matrix(0.2611819,-0.03019298,-0.12605477,-1.0904265,85.118913,387.05868)" />
+       transform="matrix(0.2611819,-0.03019298,-0.12605477,-1.0904265,85.118913,387.05868)"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\frogRaw.png"
+       inkscape:export-xdpi="58.66"
+       inkscape:export-ydpi="58.66" />
     <path
        id="path839"
        style="opacity:0.99;fill:#b3ff80;fill-opacity:1;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.968889"
        d="m 197.04533,153.40451 c 0,23.8572 -37.68275,43.19727 -84.16681,43.19727 -46.484022,0 -84.832413,-19.34296 -84.166776,-43.19727 0.711706,-25.50509 41.759385,-8.27947 86.992196,-57.324374 48.10392,49.687704 81.34139,33.467174 81.34139,57.324374 z"
-       sodipodi:nodetypes="ssscs" />
+       sodipodi:nodetypes="ssscs"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\frogRaw.png"
+       inkscape:export-xdpi="58.66"
+       inkscape:export-ydpi="58.66" />
     <ellipse
        style="opacity:0.989;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.04517;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.968889"
        id="path844"
        cx="101.0563"
        cy="144.42993"
        rx="5.2724609"
-       ry="9.4938478" />
+       ry="9.4938478"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\frogRaw.png"
+       inkscape:export-xdpi="58.66"
+       inkscape:export-ydpi="58.66" />
     <ellipse
        style="opacity:0.989;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.04517;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.968889"
        id="path844-6"
        cx="119.3265"
        cy="144.97386"
        rx="5.2724609"
-       ry="9.4938478" />
+       ry="9.4938478"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\frogRaw.png"
+       inkscape:export-xdpi="58.66"
+       inkscape:export-ydpi="58.66" />
     <ellipse
        style="opacity:0.99;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.35736;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.968889"
        id="path833-7"
        cx="94.853409"
        cy="89.606201"
        rx="24.526287"
-       ry="34.920341" />
+       ry="34.920341"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\frogRaw.png"
+       inkscape:export-xdpi="58.66"
+       inkscape:export-ydpi="58.66" />
     <ellipse
        style="opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.968889"
        id="path835-7"
        cx="93.893311"
        cy="97.881523"
        rx="9.4541302"
-       ry="10.721068" />
+       ry="10.721068"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\frogRaw.png"
+       inkscape:export-xdpi="58.66"
+       inkscape:export-ydpi="58.66" />
     <ellipse
        style="opacity:0.99;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.968889"
        id="path837-7"
        cx="94.836632"
        cy="102.51821"
        rx="3.5267568"
-       ry="4.421802" />
+       ry="4.421802"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\frogRaw.png"
+       inkscape:export-xdpi="58.66"
+       inkscape:export-ydpi="58.66" />
     <ellipse
        style="opacity:0.99;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:6.65044;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.968889"
        id="path833-3"
        cx="136.02383"
        cy="95.660675"
        rx="19.049091"
-       ry="29.846779" />
+       ry="29.846779"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\frogRaw.png"
+       inkscape:export-xdpi="58.66"
+       inkscape:export-ydpi="58.66" />
     <ellipse
        style="opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.968889"
        id="path835-4"
        cx="130.01183"
        cy="98.469292"
        rx="5.4875221"
-       ry="7.9569073" />
+       ry="7.9569073"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\frogRaw.png"
+       inkscape:export-xdpi="58.66"
+       inkscape:export-ydpi="58.66" />
     <ellipse
        style="opacity:0.99;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.968889"
        id="path837-4"
        cx="127.99366"
        cy="101.06236"
        rx="2.0470583"
-       ry="3.2817504" />
+       ry="3.2817504"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\frogRaw.png"
+       inkscape:export-xdpi="58.66"
+       inkscape:export-ydpi="58.66" />
     <ellipse
        style="opacity:0.989;fill:#d40000;fill-opacity:1;stroke:#000000;stroke-width:6.1914;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.968889"
        id="path951"
@@ -201,14 +259,20 @@
     <path
        id="path955"
        style="opacity:0.989;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.27466;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.968889"
-       d="M 39.693476,180.86553 A 103.58955,100.67008 0 0 1 9.4109129,109.73754 103.58955,100.67008 0 0 1 113.00046,9.0674578 103.58955,100.67008 0 0 1 216.59,109.73754 v 0 a 103.58955,100.67008 0 0 1 -24.00415,64.44078" />
+       d="M 39.693476,180.86553 A 103.58955,100.67008 0 0 1 9.4109129,109.73754 103.58955,100.67008 0 0 1 113.00046,9.0674578 103.58955,100.67008 0 0 1 216.59,109.73754 v 0 a 103.58955,100.67008 0 0 1 -24.00415,64.44078"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\frogRaw.png"
+       inkscape:export-xdpi="58.66"
+       inkscape:export-ydpi="58.66" />
     <path
        id="path961"
        style="opacity:0.989;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.27466;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.968889"
-       d="m 192.58585,174.17832 a 103.58955,100.67008 0 0 1 -79.58539,36.22931 103.58955,100.67008 0 0 1 -73.306984,-29.5421" />
+       d="m 192.58585,174.17832 a 103.58955,100.67008 0 0 1 -79.58539,36.22931 103.58955,100.67008 0 0 1 -73.306984,-29.5421"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\frogRaw.png"
+       inkscape:export-xdpi="58.66"
+       inkscape:export-ydpi="58.66" />
     <path
        sodipodi:type="spiral"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;opacity:0.97"
+       style="opacity:0.97;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4"
        id="path964"
        sodipodi:cx="69.380234"
        sodipodi:cy="27.133854"
@@ -218,6 +282,644 @@
        sodipodi:argument="-5.3779454"
        sodipodi:t0="0"
        d="m 69.380234,27.133854 c 4e-6,6e-6 -1.5e-5,4e-6 -2.2e-5,5e-6 -0.01198,7.24e-4 -0.0084,-0.02318 -0.0077,-0.03515 0.06776,-1.197737 3.319333,-0.833905 3.679589,-0.773454 15.213665,2.552818 22.612871,25.491502 25.17934,37.559515"
-       transform="matrix(0.12791223,-1.3595314,1.6713276,0.10404944,-7.6423281,157.8386)" />
+       transform="matrix(0.12791223,-1.3595314,1.6713276,0.10404944,-7.6423281,157.8386)"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\frogRaw.png"
+       inkscape:export-xdpi="58.66"
+       inkscape:export-ydpi="58.66" />
+    <ellipse
+       style="opacity:0.97;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:11.2889;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.968889"
+       id="path966"
+       cx="-198.04399"
+       cy="390.14209"
+       rx="50.44083"
+       ry="34.890034"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\BeeRaw.png"
+       inkscape:export-xdpi="58"
+       inkscape:export-ydpi="58" />
+    <path
+       sodipodi:type="spiral"
+       style="opacity:0.69;fill:#e9ddaf;fill-rule:evenodd;stroke:#2b2200;stroke-width:0.264583"
+       id="path1002-7-8"
+       sodipodi:cx="-268.02258"
+       sodipodi:cy="316.50452"
+       sodipodi:expansion="12"
+       sodipodi:revolution="1.8"
+       sodipodi:radius="148.58472"
+       sodipodi:argument="-5.6199822"
+       sodipodi:t0="0"
+       d="m -268.02258,316.50452 c 0,0 0,0 0,0 -5e-5,10e-6 -6e-5,-9e-5 -7e-5,-1.4e-4 -6.7e-4,-0.004 0.01,-0.005 0.0109,-0.005 0.10763,-0.006 0.12234,0.21135 0.11931,0.26891 -0.0737,1.40378 -2.51582,1.47863 -3.39471,1.34897 -11.4469,-1.68877 -11.46453,-19.89186 -9.63321,-27.72405 12.93274,-55.31046 91.30162,-64.31321 136.0782,-56.97874"
+       transform="rotate(111.40553,-183.34066,314.05593)"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\BeeRaw.png"
+       inkscape:export-xdpi="58"
+       inkscape:export-ydpi="58" />
+    <ellipse
+       style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:11.2889;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.968889"
+       id="path968"
+       cx="-181.12106"
+       cy="386.94049"
+       rx="51.511951"
+       ry="42.364422"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\BeeRaw.png"
+       inkscape:export-xdpi="58"
+       inkscape:export-ydpi="58" />
+    <path
+       sodipodi:type="spiral"
+       style="opacity:0.69;fill:#e9ddaf;fill-rule:evenodd;stroke:#2b2200;stroke-width:0.264583"
+       id="path1002-7-88"
+       sodipodi:cx="-268.02258"
+       sodipodi:cy="316.50452"
+       sodipodi:expansion="12"
+       sodipodi:revolution="1.8"
+       sodipodi:radius="148.58472"
+       sodipodi:argument="-5.6199822"
+       sodipodi:t0="0"
+       d="m -268.02258,316.50452 c 0,0 0,0 0,0 -5e-5,10e-6 -6e-5,-9e-5 -7e-5,-1.4e-4 -6.7e-4,-0.004 0.01,-0.005 0.0109,-0.005 0.10763,-0.006 0.12234,0.21135 0.11931,0.26891 -0.0737,1.40378 -2.51582,1.47863 -3.39471,1.34897 -11.4469,-1.68877 -11.46453,-19.89186 -9.63321,-27.72405 12.93274,-55.31046 91.30162,-64.31321 136.0782,-56.97874"
+       transform="rotate(149.63868,-168.00621,304.1694)"
+       inkscape:transform-center-x="11.933877"
+       inkscape:transform-center-y="-54.881217"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\BeeRaw.png"
+       inkscape:export-xdpi="58"
+       inkscape:export-ydpi="58" />
+    <ellipse
+       style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:11.2889;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.968889"
+       id="path968-8"
+       cx="-161.91125"
+       cy="386.02573"
+       rx="51.898586"
+       ry="43.66581"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\BeeRaw.png"
+       inkscape:export-xdpi="58"
+       inkscape:export-ydpi="58" />
+    <ellipse
+       style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:11.2889;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.968889"
+       id="path968-8-2"
+       cx="-139.9572"
+       cy="384.65359"
+       rx="49.972767"
+       ry="47.685886"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\BeeRaw.png"
+       inkscape:export-xdpi="58"
+       inkscape:export-ydpi="58" />
+    <path
+       sodipodi:type="spiral"
+       style="opacity:0.69;fill:#e9ddaf;fill-rule:evenodd;stroke:#2b2200;stroke-width:0.264583"
+       id="path1002"
+       sodipodi:cx="-268.02258"
+       sodipodi:cy="316.50452"
+       sodipodi:expansion="12"
+       sodipodi:revolution="1.8"
+       sodipodi:radius="148.58472"
+       sodipodi:argument="-5.6199822"
+       sodipodi:t0="0"
+       d="m -268.02258,316.50452 c 0,0 0,0 0,0 -5e-5,10e-6 -6e-5,-9e-5 -7e-5,-1.4e-4 -6.7e-4,-0.004 0.01,-0.005 0.0109,-0.005 0.10763,-0.006 0.12234,0.21135 0.11931,0.26891 -0.0737,1.40378 -2.51582,1.47863 -3.39471,1.34897 -11.4469,-1.68877 -11.46453,-19.89186 -9.63321,-27.72405 12.93274,-55.31046 91.30162,-64.31321 136.0782,-56.97874"
+       transform="rotate(74.162876,-243.48043,300.28405)"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\BeeRaw.png"
+       inkscape:export-xdpi="58"
+       inkscape:export-ydpi="58" />
+    <path
+       sodipodi:type="spiral"
+       style="opacity:0.69;fill:#e9ddaf;fill-rule:evenodd;stroke:#2b2200;stroke-width:0.264583"
+       id="path1002-7"
+       sodipodi:cx="-268.02258"
+       sodipodi:cy="316.50452"
+       sodipodi:expansion="12"
+       sodipodi:revolution="1.8"
+       sodipodi:radius="148.58472"
+       sodipodi:argument="-5.6199822"
+       sodipodi:t0="0"
+       d="m -268.02258,316.50452 c 0,0 0,0 0,0 -5e-5,10e-6 -6e-5,-9e-5 -7e-5,-1.4e-4 -6.7e-4,-0.004 0.01,-0.005 0.0109,-0.005 0.10763,-0.006 0.12234,0.21135 0.11931,0.26891 -0.0737,1.40378 -2.51582,1.47863 -3.39471,1.34897 -11.4469,-1.68877 -11.46453,-19.89186 -9.63321,-27.72405 12.93274,-55.31046 91.30162,-64.31321 136.0782,-56.97874"
+       transform="rotate(98.054236,-210.85435,301.96361)"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\BeeRaw.png"
+       inkscape:export-xdpi="58"
+       inkscape:export-ydpi="58" />
+    <path
+       id="path1040"
+       style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:7.99999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -103.06212,308.98499 a 51.226161,53.055667 0 0 0 -51.22632,53.05568 51.226161,53.055667 0 0 0 2.05828,14.88849 83.699889,38.876999 0 0 0 -34.07442,31.30662 83.699889,38.876999 0 0 0 83.6998,38.87721 83.699889,38.876999 0 0 0 83.699795,-38.87721 83.699889,38.876999 0 0 0 -34.911049,-31.58877 51.226161,53.055667 0 0 0 1.979727,-14.60634 51.226161,53.055667 0 0 0 -51.225813,-53.05568 z"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\BeeRaw.png"
+       inkscape:export-xdpi="58"
+       inkscape:export-ydpi="58" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.11667"
+       id="path1047"
+       sodipodi:cx="-149.10474"
+       sodipodi:cy="289.97665"
+       sodipodi:expansion="12"
+       sodipodi:revolution="1.8"
+       sodipodi:radius="48.004921"
+       sodipodi:argument="-10.279356"
+       sodipodi:t0="0"
+       d="m -149.10474,289.97665 c 0,0 0,0 0,0 0,-1e-5 3e-5,-1e-5 5e-5,-2e-5 0.001,-1.4e-4 0.001,0.003 0.001,0.004 -10e-6,0.0348 -0.0703,0.0358 -0.0888,0.0339 -0.45164,-0.0478 -0.43398,-0.83699 -0.3771,-1.11832 0.74082,-3.66417 6.61393,-3.35822 9.10946,-2.63329 17.62325,5.11937 19.18609,30.55744 16.0532,44.87801"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\BeeRaw.png"
+       inkscape:export-xdpi="58"
+       inkscape:export-ydpi="58" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.11667"
+       id="path1047-4"
+       sodipodi:cx="57.68824"
+       sodipodi:cy="289.27832"
+       sodipodi:expansion="12"
+       sodipodi:revolution="1.8"
+       sodipodi:radius="48.004921"
+       sodipodi:argument="-10.279356"
+       sodipodi:t0="0"
+       d="m 57.68824,289.27832 c 0,0 0,0 0,0 -4e-6,-2e-5 3e-5,-2e-5 4.6e-5,-2e-5 0.0013,-1.5e-4 0.0015,0.003 0.0015,0.004 -1.4e-5,0.0348 -0.07028,0.0358 -0.0888,0.0339 -0.451635,-0.0478 -0.433974,-0.83699 -0.377094,-1.11832 0.740814,-3.66417 6.61393,-3.35822 9.109455,-2.6333 17.623247,5.11938 19.186091,30.55744 16.053206,44.87802"
+       transform="scale(-1,1)"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\BeeRaw.png"
+       inkscape:export-xdpi="58"
+       inkscape:export-ydpi="58" />
+    <ellipse
+       style="opacity:0.99;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.35736;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.968889"
+       id="path833-7-7"
+       cx="81.538177"
+       cy="360.51367"
+       rx="24.526287"
+       ry="34.920341"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\BeeRaw.png"
+       inkscape:export-xdpi="58.66"
+       inkscape:export-ydpi="58.66"
+       transform="scale(-1,1)" />
+    <ellipse
+       style="opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:6.00001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.968889"
+       id="path835-7-9"
+       cx="80.578079"
+       cy="368.789"
+       rx="9.4541302"
+       ry="10.721068"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\BeeRaw.png"
+       inkscape:export-xdpi="58.66"
+       inkscape:export-ydpi="58.66"
+       transform="scale(-1,1)" />
+    <ellipse
+       style="opacity:0.99;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:6.00001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.968889"
+       id="path837-7-7"
+       cx="81.5214"
+       cy="373.42569"
+       rx="3.5267568"
+       ry="4.421802"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\BeeRaw.png"
+       inkscape:export-xdpi="58.66"
+       inkscape:export-ydpi="58.66"
+       transform="scale(-1,1)" />
+    <ellipse
+       style="opacity:0.99;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:6.65043;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.968889"
+       id="path833-3-7"
+       cx="122.70861"
+       cy="366.56815"
+       rx="19.049091"
+       ry="29.846777"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\BeeRaw.png"
+       inkscape:export-xdpi="58.66"
+       inkscape:export-ydpi="58.66"
+       transform="scale(-1,1)" />
+    <ellipse
+       style="opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:6.00001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.968889"
+       id="path835-4-7"
+       cx="116.69659"
+       cy="369.37677"
+       rx="5.4875221"
+       ry="7.9569073"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\BeeRaw.png"
+       inkscape:export-xdpi="58.66"
+       inkscape:export-ydpi="58.66"
+       transform="scale(-1,1)" />
+    <ellipse
+       style="opacity:0.99;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:6.00001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.968889"
+       id="path837-4-5"
+       cx="114.67843"
+       cy="371.96982"
+       rx="2.0470583"
+       ry="3.2817504"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\BeeRaw.png"
+       inkscape:export-xdpi="58.66"
+       inkscape:export-ydpi="58.66"
+       transform="scale(-1,1)" />
+    <path
+       sodipodi:type="spiral"
+       style="opacity:0.97;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4"
+       id="path964-1"
+       sodipodi:cx="69.380234"
+       sodipodi:cy="27.133854"
+       sodipodi:expansion="12.81"
+       sodipodi:revolution="1"
+       sodipodi:radius="46.722805"
+       sodipodi:argument="-5.3779454"
+       sodipodi:t0="0"
+       d="m 69.380234,27.133854 c 4e-6,6e-6 -1.5e-5,4e-6 -2.2e-5,5e-6 -0.01198,7.24e-4 -0.0084,-0.02318 -0.0077,-0.03515 0.06776,-1.197737 3.319333,-0.833905 3.679589,-0.773454 15.213665,2.552818 22.612871,25.491502 25.17934,37.559515"
+       transform="matrix(0.12791223,-1.6381252,1.6713276,0.12537114,-705.86902,425.98397)"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\BeeRaw.png"
+       inkscape:export-xdpi="58.66"
+       inkscape:export-ydpi="58.66" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.11667"
+       id="path1047-0"
+       sodipodi:cx="244.29784"
+       sodipodi:cy="-493.75015"
+       sodipodi:expansion="12"
+       sodipodi:revolution="1.8"
+       sodipodi:radius="48.004921"
+       sodipodi:argument="-10.279356"
+       sodipodi:t0="0"
+       d="m 244.29784,-493.75015 c 0,0 0,0 0,0 -1e-5,-2e-5 3e-5,-2e-5 4e-5,-2e-5 0.001,-1.5e-4 0.002,0.003 0.002,0.004 -1e-5,0.0348 -0.0703,0.0358 -0.0888,0.0339 -0.45163,-0.0478 -0.43397,-0.83698 -0.37709,-1.11832 0.74081,-3.66417 6.61393,-3.35822 9.10945,-2.63329 17.62325,5.11938 19.18609,30.55744 16.05321,44.87802"
+       transform="matrix(-0.97796758,-0.87402526,0.83986004,-1.017751,430.31929,200.42813)"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\BeeRaw.png"
+       inkscape:export-xdpi="58"
+       inkscape:export-ydpi="58" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.11667"
+       id="path1047-0-1"
+       sodipodi:cx="244.29784"
+       sodipodi:cy="-493.75015"
+       sodipodi:expansion="12"
+       sodipodi:revolution="1.8"
+       sodipodi:radius="48.004921"
+       sodipodi:argument="-10.279356"
+       sodipodi:t0="0"
+       d="m 244.29784,-493.75015 c 0,0 0,0 0,0 -1e-5,-2e-5 3e-5,-2e-5 4e-5,-2e-5 0.001,-1.5e-4 0.002,0.003 0.002,0.004 -1e-5,0.0348 -0.0703,0.0358 -0.0888,0.0339 -0.45163,-0.0478 -0.43397,-0.83698 -0.37709,-1.11832 0.74081,-3.66417 6.61393,-3.35822 9.10945,-2.63329 17.62325,5.11938 19.18609,30.55744 16.05321,44.87802"
+       transform="matrix(-0.97796757,-1.0237833,0.83986005,-1.1921354,460.2163,170.4662)"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\BeeRaw.png"
+       inkscape:export-xdpi="58"
+       inkscape:export-ydpi="58" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.11667"
+       id="path1047-0-3"
+       sodipodi:cx="244.29784"
+       sodipodi:cy="-493.75015"
+       sodipodi:expansion="12"
+       sodipodi:revolution="1.8"
+       sodipodi:radius="48.004921"
+       sodipodi:argument="-10.279356"
+       sodipodi:t0="0"
+       d="m 244.29784,-493.75015 c 0,0 0,0 0,0 -1e-5,-2e-5 3e-5,-2e-5 4e-5,-2e-5 0.001,-1.5e-4 0.002,0.003 0.002,0.004 -1e-5,0.0348 -0.0703,0.0358 -0.0888,0.0339 -0.45163,-0.0478 -0.43397,-0.83698 -0.37709,-1.11832 0.74081,-3.66417 6.61393,-3.35822 9.10945,-2.63329 17.62325,5.11938 19.18609,30.55744 16.05321,44.87802"
+       transform="matrix(-0.97796757,-0.87402527,0.83986005,-1.017751,502.9437,212.0422)"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\BeeRaw.png"
+       inkscape:export-xdpi="58"
+       inkscape:export-ydpi="58" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:2.11667;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1181"
+       sodipodi:sides="6"
+       sodipodi:cx="68.606453"
+       sodipodi:cy="530.5567"
+       sodipodi:r1="114.6182"
+       sodipodi:r2="57.309101"
+       sodipodi:arg1="1.1428478"
+       sodipodi:arg2="1.6664466"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 116.1736,634.83852 63.133176,587.60384 2.0793212,623.89197 16.465541,554.34028 -45.48783,519.61015 l 67.426648,-22.31702 -0.899516,-71.01825 53.040427,47.23468 61.053851,-36.28813 -14.38622,69.5517 61.95338,34.73012 -67.42665,22.31702 z"
+       inkscape:transform-center-x="13.992202"
+       inkscape:transform-center-y="3.0969759"
+       transform="matrix(0.58831334,0,0,0.56583417,76.268888,277.67204)"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\sprites\Projectile\foreground.png"
+       inkscape:export-xdpi="58"
+       inkscape:export-ydpi="58" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:2.11667;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1183"
+       sodipodi:sides="12"
+       sodipodi:cx="133.85916"
+       sodipodi:cy="575.92676"
+       sodipodi:r1="80.711067"
+       sodipodi:r2="40.355534"
+       sodipodi:arg1="0.95449939"
+       sodipodi:arg2="1.2162988"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 180.51156,641.78896 -32.64422,-28.01593 -6.53712,42.51827 -14.26275,-40.58462 -26.92045,33.55334 7.9404,-42.27869 -40.090465,15.59782 28.015938,-32.64421 -42.518274,-6.53713 40.584623,-14.26275 -33.553344,-26.92045 42.278692,7.94041 -15.597825,-40.09047 32.644215,28.01594 6.53712,-42.51827 14.26276,40.58462 26.92045,-33.55335 -7.94041,42.27869 40.09047,-15.59782 -28.01594,32.64422 42.51827,6.53712 -40.58462,14.26275 33.55335,26.92045 -42.2787,-7.9404 z"
+       inkscape:transform-center-x="-3.2546633e-06"
+       transform="matrix(0.74299321,0,0,0.75516922,212.59705,124.38108)"
+       inkscape:export-xdpi="58"
+       inkscape:export-ydpi="58"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\sprites\Projectile\background.png" />
+    <rect
+       style="opacity:1;fill:#8a916f;fill-opacity:1;stroke:#000000;stroke-width:2.11667;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1109-1"
+       width="142.70145"
+       height="37.504868"
+       x="-386.62064"
+       y="25.52545"
+       ry="1.2058835"
+       transform="rotate(0.1680202)"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\BeeRaw.png"
+       inkscape:export-xdpi="58"
+       inkscape:export-ydpi="58" />
+    <rect
+       style="opacity:1;fill:#e3e2db;fill-opacity:1;stroke:none;stroke-width:2.87361;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1111-1"
+       width="138.25127"
+       height="10.062282"
+       x="-386.62064"
+       y="39.246857"
+       ry="1.2058835"
+       transform="rotate(0.1680202)"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\BeeRaw.png"
+       inkscape:export-xdpi="58"
+       inkscape:export-ydpi="58" />
+    <rect
+       style="opacity:1;fill:#1c241f;fill-opacity:1;stroke:none;stroke-width:3.40924;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1111-0-6"
+       width="142.70145"
+       height="13.721293"
+       x="-386.62064"
+       y="49.309113"
+       ry="1.6443866"
+       transform="rotate(0.1680202)"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\BeeRaw.png"
+       inkscape:export-xdpi="58"
+       inkscape:export-ydpi="58" />
+    <rect
+       style="opacity:1;fill:#e3e2db;fill-opacity:1;stroke:none;stroke-width:1.52465;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1111-2-9"
+       width="142.70145"
+       height="2.7442584"
+       x="-386.62064"
+       y="60.286102"
+       ry="0.3288773"
+       transform="rotate(0.1680202)"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\BeeRaw.png"
+       inkscape:export-xdpi="58"
+       inkscape:export-ydpi="58" />
+    <ellipse
+       style="opacity:1;fill:#8787de;fill-opacity:1;stroke:#000000;stroke-width:2.11667;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1240-0"
+       cx="-209.01689"
+       cy="42.190201"
+       rx="42.078632"
+       ry="38.419624" />
+    <path
+       id="path1250-6"
+       style="opacity:1;fill:#000080;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -212.27245,71.76377 a 32.473728,28.814715 0 0 1 -31.79029,-23.170163 59.135648,28.034051 0 0 0 32.30189,4.55218 59.135648,28.034051 0 0 0 31.31799,-4.254521 32.473728,28.814715 0 0 1 -31.77585,22.872504 32.473728,28.814715 0 0 1 -0.0537,0 z" />
+    <path
+       id="path1250-2-6"
+       style="opacity:1;fill:#d5e5ff;fill-opacity:1;stroke:none;stroke-width:1.32024;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -211.77231,13.224815 a 18.466108,19.71393 0 0 0 -18.07747,15.852143 33.627346,19.17983 0 0 1 18.36839,-3.114427 33.627346,19.17983 0 0 1 17.8089,2.910781 18.466108,19.71393 0 0 0 -18.06926,-15.648497 18.466108,19.71393 0 0 0 -0.0305,0 z" />
+    <ellipse
+       style="opacity:1;fill:#8787de;fill-opacity:1;stroke:#000000;stroke-width:2.11667;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1240"
+       cx="-430.39554"
+       cy="-67.898186"
+       rx="42.078632"
+       ry="38.419621"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\sprites\Bee\GunSphere.png"
+       inkscape:export-xdpi="58"
+       inkscape:export-ydpi="58" />
+    <path
+       id="path1250"
+       style="opacity:1;fill:#000080;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -433.65113,-38.324611 a 32.473728,28.814715 0 0 1 -31.79029,-23.170163 59.135647,28.034051 0 0 0 32.30189,4.552178 59.135647,28.034051 0 0 0 31.31799,-4.254521 32.473728,28.814715 0 0 1 -31.77585,22.872506 32.473728,28.814715 0 0 1 -0.0537,0 z"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\sprites\Bee\GunSphere.png"
+       inkscape:export-xdpi="58"
+       inkscape:export-ydpi="58" />
+    <path
+       id="path1250-2"
+       style="opacity:1;fill:#d5e5ff;fill-opacity:1;stroke:none;stroke-width:1.32024;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -433.15099,-96.863566 a 18.466108,19.71393 0 0 0 -18.07747,15.852142 33.627346,19.17983 0 0 1 18.36839,-3.114427 33.627346,19.17983 0 0 1 17.8089,2.910781 18.466108,19.71393 0 0 0 -18.06926,-15.648496 18.466108,19.71393 0 0 0 -0.0305,0 z"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\sprites\Bee\GunSphere.png"
+       inkscape:export-xdpi="58"
+       inkscape:export-ydpi="58" />
+    <ellipse
+       style="opacity:1;fill:#8787de;fill-opacity:1;stroke:#000000;stroke-width:2.76741;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1240-2"
+       cx="-302.28128"
+       cy="46.770184"
+       rx="42.078632"
+       ry="65.673958" />
+    <path
+       id="path1250-7"
+       style="opacity:1;fill:#000080;fill-opacity:1;stroke:none;stroke-width:2.76741;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -305.53684,97.322812 a 32.473728,49.255461 0 0 1 -31.79029,-39.60674 59.135648,47.921005 0 0 0 32.30189,7.781432 59.135648,47.921005 0 0 0 31.31799,-7.272616 32.473728,49.255461 0 0 1 -31.77585,39.097924 32.473728,49.255461 0 0 1 -0.0537,0 z" />
+    <path
+       id="path1250-2-2"
+       style="opacity:1;fill:#d5e5ff;fill-opacity:1;stroke:none;stroke-width:1.72613;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -305.0367,-2.742832 a 18.466108,33.698709 0 0 0 -18.07747,27.097426 33.627346,32.785726 0 0 1 18.36839,-5.323757 33.627346,32.785726 0 0 1 17.8089,4.975648 18.466108,33.698709 0 0 0 -18.06926,-26.749317 18.466108,33.698709 0 0 0 -0.0305,0 z" />
+    <path
+       sodipodi:type="spiral"
+       style="opacity:0.69;fill:#e9ddaf;fill-rule:evenodd;stroke:#2b2200;stroke-width:0.264583"
+       id="path1002-8"
+       sodipodi:cx="-268.02258"
+       sodipodi:cy="316.50452"
+       sodipodi:expansion="12"
+       sodipodi:revolution="1.8"
+       sodipodi:radius="148.58472"
+       sodipodi:argument="-5.6199822"
+       sodipodi:t0="0"
+       d="m -268.02258,316.50452 c 0,0 0,0 0,0 -5e-5,10e-6 -6e-5,-9e-5 -7e-5,-1.4e-4 -6.7e-4,-0.004 0.01,-0.005 0.0109,-0.005 0.10763,-0.006 0.12234,0.21135 0.11931,0.26891 -0.0737,1.40378 -2.51582,1.47863 -3.39471,1.34897 -11.4469,-1.68877 -11.46453,-19.89186 -9.63321,-27.72405 12.93274,-55.31046 91.30162,-64.31321 136.0782,-56.97874"
+       transform="rotate(74.162877,-237.12326,148.13751)"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\sprites\Bee\Wing.png"
+       inkscape:export-xdpi="58"
+       inkscape:export-ydpi="58" />
+    <ellipse
+       style="opacity:0.97;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:11.2889;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.968889"
+       id="path966-8"
+       cx="-256.47147"
+       cy="621.81476"
+       rx="50.440834"
+       ry="34.890034"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\sprites\Bee\Body.png"
+       inkscape:export-xdpi="58"
+       inkscape:export-ydpi="58" />
+    <ellipse
+       style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:11.2889;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.968889"
+       id="path968-0"
+       cx="-239.54855"
+       cy="618.61316"
+       rx="51.511951"
+       ry="42.364426"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\sprites\Bee\Body.png"
+       inkscape:export-xdpi="58"
+       inkscape:export-ydpi="58" />
+    <ellipse
+       style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:11.2889;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.968889"
+       id="path968-8-20"
+       cx="-220.33873"
+       cy="617.69843"
+       rx="51.89859"
+       ry="43.66581"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\sprites\Bee\Body.png"
+       inkscape:export-xdpi="58"
+       inkscape:export-ydpi="58" />
+    <path
+       id="path1040-6"
+       style="opacity:1;fill:#ffd42a;fill-opacity:1;stroke:#000000;stroke-width:7.99999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -29.11327,573.0899 a 51.226162,53.055668 0 0 0 -51.22632,53.05568 51.226162,53.055668 0 0 0 2.058278,14.88849 83.69989,38.876999 0 0 0 -34.074418,31.30662 83.69989,38.876999 0 0 0 83.6998,38.87721 83.69989,38.876999 0 0 0 83.699792,-38.87721 83.69989,38.876999 0 0 0 -34.91105,-31.58877 51.226162,53.055668 0 0 0 1.97973,-14.60634 51.226162,53.055668 0 0 0 -51.225812,-53.05568 z"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\sprites\Bee\Head.png"
+       inkscape:export-xdpi="58"
+       inkscape:export-ydpi="58" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.11667"
+       id="path1047-2"
+       sodipodi:cx="-75.155884"
+       sodipodi:cy="554.08154"
+       sodipodi:expansion="12"
+       sodipodi:revolution="1.8"
+       sodipodi:radius="48.004921"
+       sodipodi:argument="-10.279356"
+       sodipodi:t0="0"
+       d="m -75.155884,554.08154 c 0,0 0,0 0,0 -4e-6,-10e-6 3e-5,-10e-6 4.6e-5,-2e-5 0.0013,-1.5e-4 0.0015,0.003 0.0015,0.004 -1.4e-5,0.0348 -0.07028,0.0358 -0.0888,0.0339 -0.451636,-0.0478 -0.433974,-0.83699 -0.377095,-1.11832 0.740814,-3.66417 6.61393,-3.35822 9.109455,-2.6333 17.623248,5.11938 19.186091,30.55745 16.053206,44.87802"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\sprites\Bee\Head.png"
+       inkscape:export-xdpi="58"
+       inkscape:export-ydpi="58" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.11667"
+       id="path1047-4-2"
+       sodipodi:cx="-16.260603"
+       sodipodi:cy="553.38324"
+       sodipodi:expansion="12"
+       sodipodi:revolution="1.8"
+       sodipodi:radius="48.004921"
+       sodipodi:argument="-10.279356"
+       sodipodi:t0="0"
+       d="m -16.260603,553.38324 c 0,0 0,0 0,0 -4e-6,-2e-5 3e-5,-2e-5 4.6e-5,-2e-5 0.0013,-1.5e-4 0.0015,0.003 0.0015,0.004 -1.4e-5,0.0348 -0.07028,0.0358 -0.0888,0.0339 -0.451635,-0.0478 -0.433974,-0.83699 -0.377094,-1.11832 0.740814,-3.66417 6.61393,-3.35822 9.109455,-2.6333 17.623247,5.11938 19.186091,30.55744 16.0532057,44.87802"
+       transform="scale(-1,1)"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\sprites\Bee\Head.png"
+       inkscape:export-xdpi="58"
+       inkscape:export-ydpi="58" />
+    <ellipse
+       style="opacity:1;fill:#8787de;fill-opacity:1;stroke:#000000;stroke-width:2.11667;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1240-1"
+       cx="-340.28809"
+       cy="145.69806"
+       rx="42.078632"
+       ry="38.419624" />
+    <path
+       id="path1250-27"
+       style="opacity:1;fill:#000080;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -343.54365,175.27163 a 32.473728,28.814715 0 0 1 -31.7903,-23.17017 59.135648,28.034051 0 0 0 32.30189,4.55218 59.135648,28.034051 0 0 0 31.31799,-4.25452 32.473728,28.814715 0 0 1 -31.77585,22.87251 32.473728,28.814715 0 0 1 -0.0537,0 z" />
+    <path
+       id="path1250-2-3"
+       style="opacity:1;fill:#d5e5ff;fill-opacity:1;stroke:none;stroke-width:1.32024;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -343.04352,116.73267 a 18.466108,19.71393 0 0 0 -18.07747,15.85214 33.627346,19.17983 0 0 1 18.36839,-3.11442 33.627346,19.17983 0 0 1 17.8089,2.91078 18.466108,19.71393 0 0 0 -18.06926,-15.6485 18.466108,19.71393 0 0 0 -0.0305,0 z" />
+    <g
+       id="g1584"
+       transform="translate(-301.1745,-397.98059)"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\sprites\Bee\GunFunnel.png"
+       inkscape:export-xdpi="58"
+       inkscape:export-ydpi="58">
+      <path
+         id="rect1373-7"
+         style="fill:#8787de;fill-opacity:1;stroke:#000000;stroke-width:2.11667;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 157.85565,409.1858 82.03663,-46.02878 c 0.58262,-0.32689 1.20588,0.53783 1.20588,1.20589 v 149.43722 c 0,0.66807 -0.53782,1.20588 -1.20588,1.20588 l -79.916,-44.82289 -1.20588,-1.20588 z"
+         sodipodi:nodetypes="csssscccc"
+         inkscape:transform-center-x="252.28485"
+         inkscape:transform-center-y="-190.68267" />
+      <path
+         id="rect1373-0-2"
+         style="fill:#e9afc6;fill-opacity:1;stroke:none;stroke-width:1.03136;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 134.96793,414.075 94.19948,-23.79876 c 0.66901,-0.16902 1.43661,-0.11185 1.46518,0.0191 l 6.39164,29.28323 c 0.0285,0.13091 -0.5789,0.33319 -1.36203,0.45354 l -95.5994,5.61373 -1.46518,-0.0191 z"
+         sodipodi:nodetypes="csssscccc"
+         inkscape:transform-center-x="323.22253"
+         inkscape:transform-center-y="-226.70905" />
+      <path
+         id="rect1373-0-6-1"
+         style="fill:#800066;fill-opacity:1;stroke:none;stroke-width:0.994091;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 145.30869,457.85043 87.51481,23.79877 c 0.62152,0.16902 1.33466,0.11185 1.36121,-0.019 l 5.93806,-29.28324 c 0.0265,-0.13091 -0.53781,-0.33319 -1.26537,-0.45354 l -88.81539,-5.61378 -1.3612,0.019 z"
+         sodipodi:nodetypes="csssscccc"
+         inkscape:transform-center-x="297.77698"
+         inkscape:transform-center-y="-165.71172" />
+      <path
+         id="path1406-3"
+         style="fill:#2b0022;fill-opacity:1;stroke:none;stroke-width:2.15068;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:transform-center-x="214.3226"
+         inkscape:transform-center-y="-197.29478"
+         d="m 257.81607,440.09091 a 16.465551,77.911713 0 0 1 -16.46555,77.91171 16.465551,77.911713 0 0 1 -16.46555,-77.91171 16.465551,77.911713 0 0 1 16.46555,-77.91171 16.465551,77.911713 0 0 1 16.46555,77.91171 z" />
+      <path
+         style="opacity:1;fill:#221c24;fill-opacity:1;stroke:#000000;stroke-width:1.89172;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 171.51498,434.43629 c -3.96477,70.26396 34.88396,46.10503 4.77806,45.15919 -30.1059,-0.94584 -53.31078,-20.71886 -51.82957,-44.16426 1.48121,-23.4454 28.9764,-33.27748 57.19352,-40.73907 27.48045,-7.26678 -7.18411,-12.67586 -10.14201,39.74414 z"
+         id="path1558" />
+    </g>
+    <ellipse
+       style="opacity:0.99;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:6.65043;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.968889"
+       id="path833-3-7-9"
+       cx="418.51523"
+       cy="367.66757"
+       rx="19.049091"
+       ry="29.846777"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\sprites\Shared\EyeOutline.png"
+       inkscape:export-xdpi="58.66"
+       inkscape:export-ydpi="58.66"
+       transform="scale(-1,1)" />
+    <ellipse
+       style="opacity:0.99;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:6.00001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.968889"
+       id="path837-4-5-1"
+       cx="115.38504"
+       cy="379.40164"
+       rx="2.0470583"
+       ry="3.2817504"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\sprites\Shared\EyeWhite.png"
+       inkscape:export-xdpi="58.66"
+       inkscape:export-ydpi="58.66"
+       transform="scale(-1,1)" />
+    <ellipse
+       style="opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:6.00001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.968889"
+       id="path835-7-9-7"
+       cx="589.63708"
+       cy="239.57063"
+       rx="9.4541302"
+       ry="10.721068"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\sprites\Shared\EyeBlack.png"
+       inkscape:export-xdpi="58.66"
+       inkscape:export-ydpi="58.66"
+       transform="scale(-1,1)" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.11667"
+       id="path1047-0-0"
+       sodipodi:cx="244.29784"
+       sodipodi:cy="-493.75015"
+       sodipodi:expansion="12"
+       sodipodi:revolution="1.8"
+       sodipodi:radius="48.004921"
+       sodipodi:argument="-10.279356"
+       sodipodi:t0="0"
+       d="m 244.29784,-493.75015 c 0,0 0,0 0,0 -1e-5,-2e-5 3e-5,-2e-5 4e-5,-2e-5 0.001,-1.5e-4 0.002,0.003 0.002,0.004 -1e-5,0.0348 -0.0703,0.0358 -0.0888,0.0339 -0.45163,-0.0478 -0.43397,-0.83698 -0.37709,-1.11832 0.74081,-3.66417 6.61393,-3.35822 9.10945,-2.63329 17.62325,5.11938 19.18609,30.55744 16.05321,44.87802"
+       transform="matrix(-0.97796757,-0.87402527,0.83986005,-1.017751,-82.848726,-378.22818)"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\BeeRaw.png"
+       inkscape:export-xdpi="58"
+       inkscape:export-ydpi="58" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.11667"
+       id="path1047-0-1-9"
+       sodipodi:cx="244.29784"
+       sodipodi:cy="-493.75015"
+       sodipodi:expansion="12"
+       sodipodi:revolution="1.8"
+       sodipodi:radius="48.004921"
+       sodipodi:argument="-10.279356"
+       sodipodi:t0="0"
+       d="m 244.29784,-493.75015 c 0,0 0,0 0,0 -1e-5,-2e-5 3e-5,-2e-5 4e-5,-2e-5 0.001,-1.5e-4 0.002,0.003 0.002,0.004 -1e-5,0.0348 -0.0703,0.0358 -0.0888,0.0339 -0.45163,-0.0478 -0.43397,-0.83698 -0.37709,-1.11832 0.74081,-3.66417 6.61393,-3.35822 9.10945,-2.63329 17.62325,5.11938 19.18609,30.55744 16.05321,44.87802"
+       transform="matrix(-0.97796757,-1.0237833,0.83986005,-1.1921354,-52.951706,-408.19011)"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\BeeRaw.png"
+       inkscape:export-xdpi="58"
+       inkscape:export-ydpi="58" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.11667"
+       id="path1047-0-3-7"
+       sodipodi:cx="244.29784"
+       sodipodi:cy="-493.75015"
+       sodipodi:expansion="12"
+       sodipodi:revolution="1.8"
+       sodipodi:radius="48.004921"
+       sodipodi:argument="-10.279356"
+       sodipodi:t0="0"
+       d="m 244.29784,-493.75015 c 0,0 0,0 0,0 -1e-5,-2e-5 3e-5,-2e-5 4e-5,-2e-5 0.001,-1.5e-4 0.002,0.003 0.002,0.004 -1e-5,0.0348 -0.0703,0.0358 -0.0888,0.0339 -0.45163,-0.0478 -0.43397,-0.83698 -0.37709,-1.11832 0.74081,-3.66417 6.61393,-3.35822 9.10945,-2.63329 17.62325,5.11938 19.18609,30.55744 16.05321,44.87802"
+       transform="matrix(-0.97796757,-0.87402527,0.83986005,-1.017751,-10.224306,-366.61411)"
+       inkscape:export-filename="E:\Projekte\GameDev\MiniJame202190313\assets\BeeRaw.png"
+       inkscape:export-xdpi="58"
+       inkscape:export-ydpi="58" />
   </g>
 </svg>
