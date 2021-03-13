@@ -48,11 +48,13 @@ shape = SubResource( 1 )
 [node name="Node2D" parent="Bee" instance=ExtResource( 1 )]
 
 [node name="Border" type="StaticBody2D" parent="."]
-position = Vector2( -2.52271, -5.88626 )
+position = Vector2( -8.52271, -7.88626 )
 collision_layer = 2
 
 [node name="BorderCollisionBox" type="CollisionPolygon2D" parent="Border"]
-polygon = PoolVector2Array( -0.00276852, 600.003, -0.0078125, 0.0078125, 1024, 0.0078125, 1024.01, 600.008, -0.00276852, 599.989, -12.2063, 614.141, 1043.27, 614.986, 1039.43, -14.9828, -21.6135, -18.7443, -12.4227, 613.858 )
+position = Vector2( -26.319, 1.64703 )
+scale = Vector2( 1.24, 1.24158 )
+polygon = PoolVector2Array( 28.0918, 584.939, 28.0918, 5.02524, 1060.37, 5.01266, 1060.36, 584.939, 28.0918, 584.939, -12.2063, 614.141, 1097.98, 618.217, 1083.91, -11.299, -21.6135, -18.7443, -12.4227, 613.858 )
 
 [node name="EnemySpawner" type="Node" parent="."]
 script = SubResource( 2 )
@@ -62,7 +64,7 @@ stream = ExtResource( 4 )
 volume_db = -4.0
 autoplay = true
 
-[node name="Music" type="AudioStreamPlayer" parent="Startup"]
+[node name="Music" type="AudioStreamPlayer" parent="."]
 stream = ExtResource( 3 )
 volume_db = -8.0
 autoplay = true

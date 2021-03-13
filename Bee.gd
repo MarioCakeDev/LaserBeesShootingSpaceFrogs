@@ -6,11 +6,14 @@ export var speed: float = 500
 var createShot = load("res://Shot.tscn")
 
 var actionsPressed = []
+var shootTimer = 0.2
 
 func _ready():
 	pass # Replace with function body.
 
 func _physics_process(delta):
+	shootTimer -= delta
+	
 	move_and_slide(velocity)
 	
 func onReleased_left():
@@ -38,6 +41,9 @@ func on_down():
 	velocity.y = speed
 
 func shoot(shootPosition: Vector2):
+	if shootTimer > 0:
+		return
+	shootTimer = 0.2
 	var shootDirection: Vector2 = shootPosition - position
 	shootDirection = shootDirection.normalized()
 	
