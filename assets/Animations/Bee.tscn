@@ -1,10 +1,11 @@
-[gd_scene load_steps=7 format=2]
+[gd_scene load_steps=8 format=2]
 
 [ext_resource path="res://assets/sprites/Bee/Head.png" type="Texture" id=1]
 [ext_resource path="res://assets/sprites/Bee/Body.png" type="Texture" id=2]
 [ext_resource path="res://assets/Animations/Wings.tscn" type="PackedScene" id=3]
 [ext_resource path="res://assets/Animations/Eyes.tscn" type="PackedScene" id=4]
 [ext_resource path="res://assets/sprites/Bee/BeeMouth.png" type="Texture" id=5]
+[ext_resource path="res://assets/Animations/Weapon.tscn" type="PackedScene" id=6]
 
 [sub_resource type="Animation" id=1]
 resource_name = "Idle"
@@ -166,6 +167,13 @@ position = Vector2( 18.6386, -2.01319 )
 scale = Vector2( 0.1, 0.1 )
 texture = ExtResource( 2 )
 offset = Vector2( -213.284, -0.722126 )
+
+[node name="Node2D2" parent="Body" instance=ExtResource( 6 )]
+position = Vector2( -262.816, 144.537 )
+
+[node name="Node2D" parent="Body" instance=ExtResource( 6 )]
+position = Vector2( 25.1985, 0 )
+scale = Vector2( 0.1, 0.1 )
 
 [node name="Wings" parent="Body" instance=ExtResource( 3 )]
 position = Vector2( -184.775, -57.4014 )
