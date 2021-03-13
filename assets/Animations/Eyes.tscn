@@ -1,0 +1,196 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://assets/sprites/Shared/EyeBlack.png" type="Texture" id=1]
+[ext_resource path="res://assets/sprites/Shared/EyeWhite.png" type="Texture" id=2]
+[ext_resource path="res://assets/sprites/Shared/EyeOutline.png" type="Texture" id=3]
+
+[sub_resource type="Animation" id=1]
+resource_name = "Idle"
+length = 1.2
+loop = true
+tracks/0/type = "value"
+tracks/0/path = NodePath("AnimationPlayer/EyeBlack:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 0.2, 0.4, 1 ),
+"transitions": PoolRealArray( 1, 1, 1, 1 ),
+"update": 0,
+"values": [ Vector2( 4.26343, 1.89501 ), Vector2( 6.49319, 2.19231 ), Vector2( 4.26343, 1.89501 ), Vector2( 3.52017, 1.89501 ) ]
+}
+tracks/1/type = "value"
+tracks/1/path = NodePath("AnimationPlayer/EyeBlack:rotation_degrees")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/keys = {
+"times": PoolRealArray( 0, 0.2, 0.4, 0.5 ),
+"transitions": PoolRealArray( 1, 1, 1, 1 ),
+"update": 0,
+"values": [ 0.0, 0.0, 0.0, 0.0 ]
+}
+tracks/2/type = "value"
+tracks/2/path = NodePath("AnimationPlayer/EyeBlack2:position")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/keys = {
+"times": PoolRealArray( 0, 0.2, 0.4, 0.5 ),
+"transitions": PoolRealArray( 1, 1, 1, 1 ),
+"update": 0,
+"values": [ Vector2( -4.35832, 1.89501 ), Vector2( -3.16911, 1.74636 ), Vector2( -4.35832, 1.89501 ), Vector2( -5.54753, 1.89501 ) ]
+}
+tracks/3/type = "value"
+tracks/3/path = NodePath("AnimationPlayer/EyeBlack2:rotation_degrees")
+tracks/3/interp = 1
+tracks/3/loop_wrap = true
+tracks/3/imported = false
+tracks/3/enabled = true
+tracks/3/keys = {
+"times": PoolRealArray( 0, 0.2, 0.4, 0.5 ),
+"transitions": PoolRealArray( 1, 1, 1, 1 ),
+"update": 0,
+"values": [ 0.0, 0.0, 0.0, 0.0 ]
+}
+tracks/4/type = "value"
+tracks/4/path = NodePath("AnimationPlayer/EyeWhite:position")
+tracks/4/interp = 1
+tracks/4/loop_wrap = true
+tracks/4/imported = false
+tracks/4/enabled = true
+tracks/4/keys = {
+"times": PoolRealArray( 0, 0.2, 0.4, 0.5 ),
+"transitions": PoolRealArray( 1, 1, 1, 1 ),
+"update": 0,
+"values": [ Vector2( 3.96613, 2.93556 ), Vector2( 7.08781, 3.53017 ), Vector2( 3.96613, 2.93556 ), Vector2( 2.77692, 3.23287 ) ]
+}
+tracks/5/type = "value"
+tracks/5/path = NodePath("AnimationPlayer/EyeWhite:rotation_degrees")
+tracks/5/interp = 1
+tracks/5/loop_wrap = true
+tracks/5/imported = false
+tracks/5/enabled = true
+tracks/5/keys = {
+"times": PoolRealArray( 0, 0.2, 0.4, 0.5 ),
+"transitions": PoolRealArray( 1, 1, 1, 1 ),
+"update": 0,
+"values": [ 0.0, 0.0, 0.0, 0.0 ]
+}
+tracks/6/type = "value"
+tracks/6/path = NodePath("AnimationPlayer/EyeOutline:position")
+tracks/6/interp = 1
+tracks/6/loop_wrap = true
+tracks/6/imported = false
+tracks/6/enabled = true
+tracks/6/keys = {
+"times": PoolRealArray( 0, 0.2, 0.4, 0.5 ),
+"transitions": PoolRealArray( 1, 1, 1, 1 ),
+"update": 0,
+"values": [ Vector2( 4.41208, -0.0374527 ), Vector2( 5.53175, -0.79542 ), Vector2( 4.70682, 0.192879 ), Vector2( 4.6577, 0.154491 ) ]
+}
+tracks/7/type = "value"
+tracks/7/path = NodePath("AnimationPlayer/EyeOutline:rotation_degrees")
+tracks/7/interp = 1
+tracks/7/loop_wrap = true
+tracks/7/imported = false
+tracks/7/enabled = true
+tracks/7/keys = {
+"times": PoolRealArray( 0, 0.2, 0.4, 0.5 ),
+"transitions": PoolRealArray( 1, 1, 1, 1 ),
+"update": 0,
+"values": [ 0.0, 0.0, 0.0, 0.0 ]
+}
+tracks/8/type = "value"
+tracks/8/path = NodePath("AnimationPlayer/EyeOutline2:position")
+tracks/8/interp = 1
+tracks/8/loop_wrap = true
+tracks/8/imported = false
+tracks/8/enabled = true
+tracks/8/keys = {
+"times": PoolRealArray( 0, 0.2, 0.4, 0.5 ),
+"transitions": PoolRealArray( 1, 1, 1, 1 ),
+"update": 0,
+"values": [ Vector2( -4.20967, -0.0374527 ), Vector2( -4.20967, -0.0374527 ), Vector2( -4.20967, -0.0374527 ), Vector2( -5.02374, -0.871217 ) ]
+}
+tracks/9/type = "value"
+tracks/9/path = NodePath("AnimationPlayer/EyeOutline2:rotation_degrees")
+tracks/9/interp = 1
+tracks/9/loop_wrap = true
+tracks/9/imported = false
+tracks/9/enabled = true
+tracks/9/keys = {
+"times": PoolRealArray( 0, 0.2, 0.4, 0.5 ),
+"transitions": PoolRealArray( 1, 1, 1, 1 ),
+"update": 0,
+"values": [ 0.0, 0.0, 0.0, 0.0 ]
+}
+tracks/10/type = "value"
+tracks/10/path = NodePath("AnimationPlayer/EyeWhite2:position")
+tracks/10/interp = 1
+tracks/10/loop_wrap = true
+tracks/10/imported = false
+tracks/10/enabled = true
+tracks/10/keys = {
+"times": PoolRealArray( 0, 0.2, 0.4, 0.5 ),
+"transitions": PoolRealArray( 1, 1, 1, 1 ),
+"update": 0,
+"values": [ Vector2( -3.91238, 2.78691 ), Vector2( -2.27721, 3.23287 ), Vector2( -3.91238, 2.78691 ), Vector2( -5.69618, 3.23287 ) ]
+}
+tracks/11/type = "value"
+tracks/11/path = NodePath("AnimationPlayer/EyeWhite2:rotation_degrees")
+tracks/11/interp = 1
+tracks/11/loop_wrap = true
+tracks/11/imported = false
+tracks/11/enabled = true
+tracks/11/keys = {
+"times": PoolRealArray( 0, 0.2, 0.4, 0.5 ),
+"transitions": PoolRealArray( 1, 1, 1, 1 ),
+"update": 0,
+"values": [ 0.0, 0.0, 0.0, 0.0 ]
+}
+
+[node name="Node2D" type="Node2D"]
+position = Vector2( -0.445953, 0.891905 )
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+anims/Idle = SubResource( 1 )
+
+[node name="EyeOutline" type="Sprite" parent="AnimationPlayer"]
+position = Vector2( 4.50264, 0.0333207 )
+scale = Vector2( 0.110202, 0.104922 )
+texture = ExtResource( 3 )
+offset = Vector2( -0.219192, 1.49458 )
+
+[node name="EyeBlack" type="Sprite" parent="AnimationPlayer"]
+position = Vector2( 3.59215, 1.89501 )
+scale = Vector2( 0.1, 0.1 )
+texture = ExtResource( 1 )
+offset = Vector2( -0.219192, 1.49458 )
+
+[node name="EyeWhite" type="Sprite" parent="AnimationPlayer"]
+position = Vector2( 3.52765, 3.04519 )
+scale = Vector2( 0.1, 0.1 )
+texture = ExtResource( 2 )
+offset = Vector2( -0.219192, 1.49458 )
+
+[node name="EyeOutline2" type="Sprite" parent="AnimationPlayer"]
+position = Vector2( -4.50983, -0.344879 )
+scale = Vector2( 0.116031, 0.110829 )
+texture = ExtResource( 3 )
+offset = Vector2( -0.219192, 1.49458 )
+
+[node name="EyeBlack2" type="Sprite" parent="AnimationPlayer"]
+position = Vector2( -4.79681, 1.89501 )
+scale = Vector2( 0.1, 0.1 )
+texture = ExtResource( 1 )
+offset = Vector2( -0.219192, 1.49458 )
+
+[node name="EyeWhite2" type="Sprite" parent="AnimationPlayer"]
+position = Vector2( -4.5701, 2.95135 )
+scale = Vector2( 0.1, 0.1 )
+texture = ExtResource( 2 )
+offset = Vector2( -0.219192, 1.49458 )
