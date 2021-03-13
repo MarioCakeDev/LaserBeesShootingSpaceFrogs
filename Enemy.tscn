@@ -7,7 +7,8 @@
 extents = Vector2( 34.6477, 48.1067 )
 
 [node name="Enemy" type="KinematicBody2D"]
-position = Vector2( 200, 200 )
+position = Vector2( 200, 197.881 )
+scale = Vector2( 0.599999, 0.599999 )
 collision_layer = 4
 collision_mask = 9
 script = ExtResource( 2 )
@@ -17,5 +18,5 @@ scale = Vector2( 0.0975596, 0.0975596 )
 texture = ExtResource( 1 )
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-position = Vector2( -0.212389, 9.19208 )
+position = Vector2( 2.43629, 7.4263 )
 shape = SubResource( 1 )

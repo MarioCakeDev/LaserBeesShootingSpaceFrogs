@@ -14,7 +14,9 @@ func _physics_process(delta):
 	if collision.collider.has_method("onShot"):
 		collision.collider.onShot()
 	
-	destroy()
+	set_process(false)
+	set_physics_process(false)
+	position.x = -10000
 
 func fly():
 	velocity = Vector2(cos(rotation), sin(rotation)) * speed

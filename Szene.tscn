@@ -11,17 +11,25 @@ radius = 15.4176
 [sub_resource type="GDScript" id=2]
 script/source = "extends Node
 
-var respawnTime = 5
+var respawnTime = 0.4
+
+var enemyPrefab = load(\"res://Enemy.tscn\")
 
 func _process(delta):
 	respawnTime -= delta
 	
 	if respawnTime <= 0:
-		respawnTime += rand_range(2000, 8000)
+		respawnTime += rand_range(0.2, 1)
 		spawnEnemy()
 		
 func spawnEnemy():
-	print(\"Spawn Enemy!\")
+	var enemy: Enemy = enemyPrefab.instance()
+	enemy.position.y = -10
+	enemy.position.x = rand_range(0, get_viewport().size.x)
+	var x = (randi() % 2) == 1
+	enemy.rotationSpeed = rand_range(0.5, 5) * -1 if x else 1
+	
+	add_child(enemy)
 "
 
 [node name="Szene" type="Node2D"]
@@ -39,6 +47,8 @@ texture = ExtResource( 1 )
 shape = SubResource( 1 )
 
 [node name="Border" type="StaticBody2D" parent="."]
+position = Vector2( -2.52271, -5.88626 )
+collision_layer = 2
 
 [node name="BorderCollisionBox" type="CollisionPolygon2D" parent="Border"]
 polygon = PoolVector2Array( -0.00276852, 600.003, -0.0078125, 0.0078125, 1024, 0.0078125, 1024.01, 600.008, -0.00276852, 599.989, -12.2063, 614.141, 1043.27, 614.986, 1039.43, -14.9828, -21.6135, -18.7443, -12.4227, 613.858 )
@@ -46,12 +56,12 @@ polygon = PoolVector2Array( -0.00276852, 600.003, -0.0078125, 0.0078125, 1024, 0
 [node name="EnemySpawner" type="Node" parent="."]
 script = SubResource( 2 )
 
-[node name="Music" type="AudioStreamPlayer" parent="."]
-stream = ExtResource( 3 )
-volume_db = -8.0
-autoplay = true
-
 [node name="Startup" type="AudioStreamPlayer" parent="."]
 stream = ExtResource( 4 )
 volume_db = -4.0
+autoplay = true
+
+[node name="Music" type="AudioStreamPlayer" parent="Startup"]
+stream = ExtResource( 3 )
+volume_db = -8.0
 autoplay = true
