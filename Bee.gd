@@ -8,12 +8,14 @@ var createShot = load("res://Shot.tscn")
 var actionsPressed = []
 var shootTimer = 0.2
 
+var startScale = 0
+
 func _ready():
-	pass # Replace with function body.
+	startScale = $BeeBody.scale.x
 
 func _physics_process(delta):
 	shootTimer -= delta
-	
+			
 	move_and_slide(velocity)
 	
 func onReleased_left():
@@ -30,9 +32,11 @@ func onReleased_down():
 
 func on_left():
 	velocity.x = -speed
+	$BeeBody.scale.x = -startScale
 	
 func on_right():
 	velocity.x = speed
+	$BeeBody.scale.x = startScale
 	
 func on_up():
 	velocity.y = -speed
@@ -44,13 +48,22 @@ func shoot(shootPosition: Vector2):
 	if shootTimer > 0:
 		return
 	shootTimer = 0.2
-	var shootDirection: Vector2 = shootPosition - position
-	shootDirection = shootDirection.normalized()
 	
+	var offset = $BeeBody/ShotStart.position
+	if shootPosition.x > position.x:
+		$BeeBody.scale.x = startScale
+	else:
+		$BeeBody.scale.x = -startScale
+		offset.x *= -1;
+		
+		
+	var shootDirection: Vector2 = shootPosition - (offset + position)
+	shootDirection = shootDirection.normalized()	
+		
 	var shot: Shot = createShot.instance()
 	
 	shot.rotation = shootDirection.angle()
-	shot.position = position
+	shot.position = offset + position
 	
 	$"..".add_child(shot)
 	shot.fly()

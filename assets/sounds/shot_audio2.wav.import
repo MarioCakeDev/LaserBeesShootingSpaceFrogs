@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/shot_audio2.wav-ae616ad9fac72666c58f1e170e1fbbdf.sample"
+
+[deps]
+
+source_file="res://assets/sounds/shot_audio2.wav"
+dest_files=[ "res://.import/shot_audio2.wav-ae616ad9fac72666c58f1e170e1fbbdf.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
