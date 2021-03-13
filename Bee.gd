@@ -1,4 +1,4 @@
-extends Node2D
+extends KinematicBody2D
 
 var velocity: Vector2 = Vector2()
 export var speed: float = 500
@@ -11,7 +11,7 @@ func _ready():
 	pass # Replace with function body.
 
 func _physics_process(delta):
-	position += velocity * delta
+	move_and_slide(velocity)
 	
 func onReleased_left():
 	velocity.x = 0
@@ -40,9 +40,12 @@ func on_down():
 func shoot(shootPosition: Vector2):
 	var shootDirection: Vector2 = shootPosition - position
 	shootDirection = shootDirection.normalized()
+	
 	var shot: Shot = createShot.instance()
+	
 	shot.rotation = shootDirection.angle()
 	shot.position = position
+	
 	$"..".add_child(shot)
 	shot.fly()
 	
