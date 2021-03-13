@@ -7,7 +7,7 @@ resource_name = "Flutter"
 length = 0.2
 loop = true
 tracks/0/type = "value"
-tracks/0/path = NodePath("AnimationPlayerWingsFront/Wing2:position")
+tracks/0/path = NodePath("Wing2:position")
 tracks/0/interp = 1
 tracks/0/loop_wrap = true
 tracks/0/imported = false
@@ -19,7 +19,7 @@ tracks/0/keys = {
 "values": [ Vector2( 0.39719, 0.987751 ), Vector2( 0.39719, 0.987751 ) ]
 }
 tracks/1/type = "value"
-tracks/1/path = NodePath("AnimationPlayerWingsFront/Wing2:rotation_degrees")
+tracks/1/path = NodePath("Wing2:rotation_degrees")
 tracks/1/interp = 1
 tracks/1/loop_wrap = true
 tracks/1/imported = false
@@ -31,7 +31,7 @@ tracks/1/keys = {
 "values": [ 34.2541, 8.28093 ]
 }
 tracks/2/type = "value"
-tracks/2/path = NodePath("AnimationPlayerWingsFront/Wing:position")
+tracks/2/path = NodePath("Wing:position")
 tracks/2/interp = 1
 tracks/2/loop_wrap = true
 tracks/2/imported = false
@@ -43,7 +43,7 @@ tracks/2/keys = {
 "values": [ Vector2( 0.309578, 0.31533 ), Vector2( 0.309578, 0.31533 ) ]
 }
 tracks/3/type = "value"
-tracks/3/path = NodePath("AnimationPlayerWingsFront/Wing:rotation_degrees")
+tracks/3/path = NodePath("Wing:rotation_degrees")
 tracks/3/interp = 1
 tracks/3/loop_wrap = true
 tracks/3/imported = false
@@ -55,19 +55,22 @@ tracks/3/keys = {
 "values": [ 0.0, 46.2587 ]
 }
 
-[node name="AnimationPlayerWingsFront" type="AnimationPlayer"]
+[node name="Node2D" type="Node2D"]
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+autoplay = "Flutter"
 anims/Flutter = SubResource( 1 )
 
 [node name="Wing2" type="Sprite" parent="."]
 position = Vector2( 0.39719, 0.987751 )
-rotation = 0.144738
+rotation = 0.181079
 scale = Vector2( 0.1, 0.1 )
 texture = ExtResource( 1 )
 offset = Vector2( -137.188, -130.232 )
 
 [node name="Wing" type="Sprite" parent="."]
 position = Vector2( 0.309578, 0.31533 )
-rotation = 0.803837
+rotation = 0.671273
 scale = Vector2( 0.1, 0.1 )
 texture = ExtResource( 1 )
 offset = Vector2( -132.548, -131.907 )
