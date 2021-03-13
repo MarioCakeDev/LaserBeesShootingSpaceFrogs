@@ -1,4 +1,4 @@
-extends Node2D
+extends KinematicBody2D
 class_name Shot
 
 export var speed = 1000
@@ -8,7 +8,13 @@ var destroyed = false
 var velocity: Vector2 = Vector2()
 
 func _physics_process(delta):
-	position += velocity * delta
+	var collision: KinematicCollision2D = move_and_collide(velocity * delta)
+	if not collision:
+		return
+	if collision.collider.has_method("onShot"):
+		collision.collider.onShot()
+	
+	destroy()
 
 func fly():
 	velocity = Vector2(cos(rotation), sin(rotation)) * speed
