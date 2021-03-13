@@ -9,18 +9,12 @@
 config_version=4
 
 _global_script_classes=[ {
-"base": "KinematicBody2D",
-"class": "Enemy",
-"language": "GDScript",
-"path": "res://Enemy.gd"
-}, {
-"base": "KinematicBody2D",
+"base": "Node2D",
 "class": "Shot",
 "language": "GDScript",
 "path": "res://Shot.gd"
 } ]
 _global_script_class_icons={
-"Enemy": "",
 "Shot": ""
 }
 
@@ -29,10 +23,6 @@ _global_script_class_icons={
 config/name="LaserBeesShootingSpaceFrogs"
 run/main_scene="res://Szene.tscn"
 config/icon="res://icon.png"
-
-[display]
-
-window/size/resizable=false
 
 [input]
 
@@ -56,13 +46,6 @@ down={
 "events": [ Object(InputEventKey,"resource_local_to_scene":false,"resource_name":"","device":0,"alt":false,"shift":false,"control":false,"meta":false,"command":false,"pressed":false,"scancode":83,"unicode":0,"echo":false,"script":null)
  ]
 }
-
-[layer_names]
-
-2d_physics/layer_1="Player"
-2d_physics/layer_2="Wall"
-2d_physics/layer_3="Enemy"
-2d_physics/layer_4="Shot"
 
 [rendering]
 
