@@ -49,6 +49,7 @@ func shoot(shootPosition: Vector2):
 	$"..".add_child(shot)
 	shot.fly()
 	
+	
 func _input(event):	
 	if event is InputEventMouseButton and event.pressed and event.button_index == BUTTON_LEFT:
 	   shoot(event.position)
