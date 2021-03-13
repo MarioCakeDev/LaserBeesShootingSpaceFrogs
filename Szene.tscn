@@ -22,12 +22,18 @@ script = ExtResource( 2 )
 scale = Vector2( 0.0630911, 0.0630911 )
 texture = ExtResource( 1 )
 
+<<<<<<< Updated upstream
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Bee"]
+=======
+[node name="CollisionShape2D" type="CollisionShape2D" parent="KinematicBody2D"]
+position = Vector2( -1.12244, 0 )
+>>>>>>> Stashed changes
 shape = SubResource( 1 )
 
 [node name="Border" type="StaticBody2D" parent="."]
 
 [node name="BorderCollisionBox" type="CollisionPolygon2D" parent="Border"]
+<<<<<<< Updated upstream
 polygon = PoolVector2Array( -0.00276852, 600.003, -0.0078125, 0.0078125, 1024, 0.0078125, 1024.01, 600.008, -0.00276852, 599.989, -12.2063, 614.141, 1043.27, 614.986, 1039.43, -14.9828, -21.6135, -18.7443, -12.4227, 613.858 )
 
 [node name="Enemy" type="KinematicBody2D" parent="."]
@@ -43,3 +49,6 @@ texture = ExtResource( 3 )
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Enemy"]
 position = Vector2( 1.12245, 7.85724 )
 shape = SubResource( 2 )
+=======
+polygon = PoolVector2Array( -0.00276852, 600.003, -0.0078125, 0.0078125, 1024, 0.0078125, 1024.01, 600.008, -0.00276852, 599.989, -12.2063, 614.141, 1043.27, 614.986, 1042.69, 520.371, 1039.43, -14.9828, -21.6135, -18.7443, -12.4227, 613.858 )
+>>>>>>> Stashed changes
